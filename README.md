@@ -6,6 +6,7 @@ A descrete, server-validated chat system in Roblox.
 
 - Notified: know when a user is aware of your message, but has not opened it yet.
 - Secure: no data is given to the client without documentation. For example, when the client gets the message data, the server marks the conversation as "Read."
+- Cross-server: Players can interact across servers.
 
 ## Disclaimer
 
